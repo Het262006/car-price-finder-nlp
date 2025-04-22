@@ -1,16 +1,30 @@
 # Team member names and roll numbers
+
 1. Het Patel [KU2407U533]
 2. Rythem Agrawal [KU2407U570]
 3. Vishal Patel [KU2407U589]
+   
 # Title of the project
+
 Car Price Finder Web Application
+
 # Problem Statement
+
 Car buyers often face difficulties in gathering accurate and relevant information about the car they wish to purchase. With countless listings online, it's a challenge to find details such as the car's mileage, price, and location where the car is priced the lowest. Buyers need a convenient way to search for car information that can help them make informed decisions without browsing multiple websites.
+
 # Proposed Solution
 The Car Price Finder web application allows users to easily search for car details by entering a car name. The application retrieves relevant data such as the car's mileage, price, and details about which state offers the car at the lowest price. All of this information is fetched and processed through code without relying on external datasets, providing real-time, up-to-date insights to the user directly from the web app.
+
 # Technologies to be Used
+
 1. Python:
 - Flask: A micro web framework for creating the web application.
+- Requests: To interact with external websites to fetch the required data based on user input.
+2. Frontend:
+- HTML/CSS: For designing the user interface and creating a simple form where users can input the car name.
+3. Deployment:
+- PythonAnywhere: For hosting the web application and making it publicly accessible.
+  
 # Car Price & Variant Finder Web App (With NLP Search)
 
 This is a simple AI-powered Python Flask web application to search car details like:
