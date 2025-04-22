@@ -10,7 +10,7 @@ Car buyers often face difficulties in gathering accurate and relevant informatio
 The Car Price Finder web application allows users to easily search for car details by entering a car name. The application retrieves relevant data such as the car's mileage, price, and details about which state offers the car at the lowest price. All of this information is fetched and processed through code without relying on external datasets, providing real-time, up-to-date insights to the user directly from the web app.
 # Technologies to be Used
 1. Python:
-Flask: A micro web framework for creating the web application.
+- Flask: A micro web framework for creating the web application.
 # Car Price & Variant Finder Web App (With NLP Search)
 
 This is a simple AI-powered Python Flask web application to search car details like:
